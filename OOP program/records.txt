@@ -1,0 +1,18 @@
+[Staff]
+ID: 12
+Name: Mahad
+Dept: physio
+Salary: 1.2e+006
+------------------
+[Staff]
+ID: 12000
+Name: Mahad
+Dept: Ai
+Salary: 4.3e+007
+------------------
+[Staff]
+ID: 23
+Name: Zaid 
+Dept: sys
+Salary: 23
+------------------

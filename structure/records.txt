@@ -1,0 +1,6 @@
+[Staff]
+ID: 123
+Name: mAHAD
+Dept: bs
+Salary: 1.23444e+007
+------------------
