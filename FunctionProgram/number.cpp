@@ -112,6 +112,7 @@ else if(num>=1000000)
 
 int main() {
     // loop
+    // while
   while (true)
   {
     cout<<" NOTE: IF YOU ENTER ANY STRING AUR FLOAT NUMBER PROGRAM WILL BE END AND STOP..."<<endl;
